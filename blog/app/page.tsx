@@ -4,7 +4,7 @@ const home = () => {
   return (
     <div className='flex items-center justify-center h-screen'>
       <h1>
-        hello world
+        hello wor
       </h1>
 
     </div>
